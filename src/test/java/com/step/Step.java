@@ -19,7 +19,7 @@ public class Step extends page {
 		page p = new page();
 		p.search();
 	}
-
+thanga
 	@When("user should select one mobile phone")
 	public void user_should_select_one_mobile_phone() {
 		page p = new page();
