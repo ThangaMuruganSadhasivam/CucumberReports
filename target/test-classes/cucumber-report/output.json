@@ -1,0 +1,257 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "Validating Amazon",
+        "description": "",
+        "id": "amazon-working-page;validating-amazon",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 37150223600,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "Usefgr is on amazon page",
+            "match": {
+              "location": "Step.usefgr_is_on_amazon_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6592282701,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user text in search box and click search button",
+            "match": {
+              "location": "Step.user_text_in_search_box_and_click_search_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 11452338301,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user should select one mobile phone",
+            "match": {
+              "location": "Step.user_should_select_one_mobile_phone()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3125136300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user should perfordfm mouse hover action in next window",
+            "match": {
+              "location": "Step.user_should_perfordfm_mouse_hover_action_in_next_window()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 8,
+        "name": "Validating amazons",
+        "description": "",
+        "id": "amazon-working-page;validating-amazons",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 33381651700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Useredfhgf is on amazonfd page",
+            "match": {
+              "location": "Step.useredfhgf_is_on_amazonfd_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 9779755399,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user text in searchgf box and click searccxh button",
+            "match": {
+              "location": "Step.user_text_in_searchgf_box_and_click_searccxh_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 17405972000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user should selec1t one sdfamsung phone",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1",
+                  "offset": 17
+                }
+              ],
+              "location": "Step.user_should_selec_t_one_sdfamsung_phone(Integer)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3249732800,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user should perform1hf df hover action in next window",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1",
+                  "offset": 19
+                }
+              ],
+              "location": "Step.user_should_perform_hf_df_hover_action_in_next_window(Integer)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "Validating amazonfg",
+        "description": "",
+        "id": "amazon-working-page;validating-amazonfg",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 51074048299,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Userhgh is on amazonsed page",
+            "match": {
+              "location": "Step.userhgh_is_on_amazonsed_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 17557427501,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user text in searchwe box and click segfarch button",
+            "match": {
+              "location": "Step.user_text_in_searchwe_box_and_click_segfarch_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 18098469799,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user should selectgf one saxfmsung phone",
+            "match": {
+              "location": "Step.user_should_selectgf_one_saxfmsung_phone()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3137618100,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user should performghh modsduse hover action in next window",
+            "match": {
+              "location": "Step.user_should_performghh_modsduse_hover_action_in_next_window()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 20,
+        "name": "Validating amazondgh",
+        "description": "",
+        "id": "amazon-working-page;validating-amazondgh",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 17146048900,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "Usertrr is on amazondfh page",
+            "match": {
+              "location": "Step.usertrr_is_on_amazondfh_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 15287834099,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "user text in searchsd box and click seanhrch button",
+            "match": {
+              "location": "Step.user_text_in_searchsd_box_and_click_seanhrch_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 33876114999,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "user should selectqew one samsubbng phone",
+            "match": {
+              "location": "Step.user_should_selectqew_one_samsubbng_phone()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3170136300,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "user should performyr mobfhuse hover action in next window",
+            "match": {
+              "location": "Step.user_should_performyr_mobfhuse_hover_action_in_next_window()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Amazon working page",
+    "description": "",
+    "id": "amazon-working-page",
+    "keyword": "Feature",
+    "uri": "C:/Users/Thanga/eclipse-workspace/GoAmazon/src/test/resources/Amazon.feature",
+    "tags": []
+  }
+]

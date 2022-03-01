@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="281.499897">
+<testcase classname="Amazon working page" name="Validating Amazon" time="58.33361">
+<system-out><![CDATA[Given Usefgr is on amazon page..............................................passed
+When user text in search box and click search button........................passed
+And user should select one mobile phone.....................................passed
+Then user should perfordfm mouse hover action in next window................passed
+]]></system-out>
+</testcase>
+<testcase classname="Amazon working page" name="Validating amazons" time="63.817727">
+<system-out><![CDATA[Given Useredfhgf is on amazonfd page........................................passed
+When user text in searchgf box and click searccxh button....................passed
+And user should selec1t one sdfamsung phone.................................passed
+Then user should perform1hf df hover action in next window..................passed
+]]></system-out>
+</testcase>
+<testcase classname="Amazon working page" name="Validating amazonfg" time="89.867998">
+<system-out><![CDATA[Given Userhgh is on amazonsed page..........................................passed
+When user text in searchwe box and click segfarch button....................passed
+And user should selectgf one saxfmsung phone................................passed
+Then user should performghh modsduse hover action in next window............passed
+]]></system-out>
+</testcase>
+<testcase classname="Amazon working page" name="Validating amazondgh" time="69.480562">
+<system-out><![CDATA[Given Usertrr is on amazondfh page..........................................passed
+When user text in searchsd box and click seanhrch button....................passed
+And user should selectqew one samsubbng phone...............................passed
+Then user should performyr mobfhuse hover action in next window.............passed
+]]></system-out>
+</testcase>
+</testsuite>
