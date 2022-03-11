@@ -1,5 +1,4 @@
 package com.step;
-xddfknefs.
 import com.stepdef.page;
 
 import cucumber.api.java.en.Given;
@@ -12,6 +11,7 @@ public class Step extends page {
 	public void usefgr_is_on_amazon_page() {
 		 page p = new page();
 		    p.launch();
+		    p.launch();
 	}
 //unale mudiyathendru oore sollum nambathe!
 	@When("user text in search box and click search button")
@@ -19,7 +19,7 @@ public class Step extends page {
 		page p = new page();
 		p.search();
 	}
-thanga
+
 	@When("user should select one mobile phone")
 	public void user_should_select_one_mobile_phone() {
 		page p = new page();
