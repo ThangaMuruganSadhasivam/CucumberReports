@@ -6,6 +6,7 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 Working fine
+fine working
 public class Step extends page {
 
 	@Given("Usefgr is on amazon page")
