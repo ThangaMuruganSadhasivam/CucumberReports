@@ -1,12 +1,11 @@
 package com.step;
-xddfknefs.
+
 import com.stepdef.page;
 
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
-Working fine
-fine working
+
 public class Step extends page {
 
 	@Given("Usefgr is on amazon page")
@@ -14,13 +13,11 @@ public class Step extends page {
 		 page p = new page();
 		    p.launch();
 	}
-//unale mudiyathendru oore sollum nambathe!
 	@When("user text in search box and click search button")
 	public void user_text_in_search_box_and_click_search_button() throws InterruptedException {
 		page p = new page();
 		p.search();
 	}
-thanga
 	@When("user should select one mobile phone")
 	public void user_should_select_one_mobile_phone() {
 		page p = new page();
